@@ -1,0 +1,288 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"grid-tem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"a",
+				"auto\twidth"
+			],
+			[
+				"column",
+				"column-fill\tproperty"
+			],
+			[
+				"fill",
+				"fill-rule\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"size",
+				"background-size\tproperty"
+			],
+			[
+				"text-de",
+				"text-decoration\tproperty"
+			],
+			[
+				"D",
+				"display\tproperty"
+			],
+			[
+				"backgroun",
+				"background-size\tproperty"
+			],
+			[
+				"si",
+				"box-sizing\tproperty"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"grid-temp",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"bu",
+				"background-size\tproperty"
+			],
+			[
+				"born",
+				"box-decoration-break\tproperty"
+			],
+			[
+				"font-sty",
+				"font-style\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"background-",
+				"background-color\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"r",
+				"rgba()\tborder-color"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"h",
+				"h2\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dhanaraj Tex/Desktop/Check -POP Color Lungi Coll/N1_1 - Copy.jpg",
+		"/C/Users/Dhanaraj Tex/Desktop/Html files/javascript.html",
+		"/C/Users/Dhanaraj Tex/Desktop/First java.js",
+		"/C/Users/Dhanaraj Tex/Desktop/images.html",
+		"/C/Users/Dhanaraj Tex/Desktop/Html files/POP-Lungi/pl01_01 - Copy.jpg",
+		"/G/DeXCo/POP-Lungi/pl01_01 - Copy.jpg",
+		"/C/Users/Dhanaraj Tex/Desktop/javascript.html",
+		"/C/Users/Dhanaraj Tex/Desktop/style.css",
+		"/C/Users/Dhanaraj Tex/Desktop/animate.html",
+		"/C/Users/Dhanaraj Tex/Desktop/index.html",
+		"/C/Users/Dhanaraj Tex/Desktop/styles.css",
+		"/C/Users/Dhanaraj Tex/Desktop/dexco.html",
+		"/C/Users/Dhanaraj Tex/Desktop/webpage.css",
+		"/C/Users/Dhanaraj Tex/Desktop/css grid.html",
+		"/C/Users/Dhanaraj Tex/Desktop/styles2.css",
+		"/C/Users/Dhanaraj Tex/Desktop/about.html",
+		"/C/Users/Dhanaraj Tex/Desktop/login.html",
+		"/C/Users/Dhanaraj Tex/Desktop/style2.css",
+		"/C/Users/Dhanaraj Tex/Desktop/form.html",
+		"/C/Users/Dhanaraj Tex/Desktop/first.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
